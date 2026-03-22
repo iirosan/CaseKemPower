@@ -1,0 +1,13 @@
+# Prototype Scope - RoomLight
+
+### 1. Prototype Description
+
+The RoomLight prototype is an interactive management middleware designed for hotel facility managers and IT staff. It demonstrates how complex lighting logic can be visualized and deployed to multiple virtual rooms through a centralized interface. The goal of this prototype is to prove that centralized logical management significantly reduces manual configuration time and ensures a consistent guest experience across the entire hotel.
+
+### 2. Demonstration (Proof of Concept)
+
+The prototype is set out to prove the following requirements:
+
+- **REQ-02 (Profile Creation):** The prototype will feature a UI where users can map functions (e.g., Toggle, Dim) to specific switch locations. This proves the flexibility of the logic-first approach.
+- **REQ-03 (Mass Synchronization):** The prototype will include a "Deploy to All" simulation that visualizes the instant update of multiple room statuses. This proves the efficiency of the mass-sync vision.
+- **REQ-01 (Master Switch Logic):** The prototype simulation will verify that the "All Off" logic correctly triggers all virtual light entities in a room, proving the core value proposition for the guest experience.
